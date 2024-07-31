@@ -1,0 +1,12 @@
+/Users/kaiyu/Documents/GitHub/Chess960-with-C-/Chess960Logic/bin/Debug/net8.0/Chess960Logic.deps.json
+/Users/kaiyu/Documents/GitHub/Chess960-with-C-/Chess960Logic/bin/Debug/net8.0/Chess960Logic.dll
+/Users/kaiyu/Documents/GitHub/Chess960-with-C-/Chess960Logic/bin/Debug/net8.0/Chess960Logic.pdb
+/Users/kaiyu/Documents/GitHub/Chess960-with-C-/Chess960Logic/obj/Debug/net8.0/Chess960Logic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaiyu/Documents/GitHub/Chess960-with-C-/Chess960Logic/obj/Debug/net8.0/Chess960Logic.AssemblyInfoInputs.cache
+/Users/kaiyu/Documents/GitHub/Chess960-with-C-/Chess960Logic/obj/Debug/net8.0/Chess960Logic.AssemblyInfo.cs
+/Users/kaiyu/Documents/GitHub/Chess960-with-C-/Chess960Logic/obj/Debug/net8.0/Chess960Logic.csproj.CoreCompileInputs.cache
+/Users/kaiyu/Documents/GitHub/Chess960-with-C-/Chess960Logic/obj/Debug/net8.0/Chess960Logic.sourcelink.json
+/Users/kaiyu/Documents/GitHub/Chess960-with-C-/Chess960Logic/obj/Debug/net8.0/Chess960Logic.dll
+/Users/kaiyu/Documents/GitHub/Chess960-with-C-/Chess960Logic/obj/Debug/net8.0/refint/Chess960Logic.dll
+/Users/kaiyu/Documents/GitHub/Chess960-with-C-/Chess960Logic/obj/Debug/net8.0/Chess960Logic.pdb
+/Users/kaiyu/Documents/GitHub/Chess960-with-C-/Chess960Logic/obj/Debug/net8.0/ref/Chess960Logic.dll
